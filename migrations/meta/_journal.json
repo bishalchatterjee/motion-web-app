@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699951248606,
+      "tag": "0000_aberrant_expediter",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699952270759,
+      "tag": "0001_outstanding_mister_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1699953148844,
+      "tag": "0002_slow_gertrude_yorkes",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1700165508381,
+      "tag": "0003_little_sally_floyd",
+      "breakpoints": true
+    }
+  ]
+}
